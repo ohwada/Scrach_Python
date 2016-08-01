@@ -2,10 +2,12 @@
 Cooperation of Scratch and Python using Remote Sensors
 
 ### Sample1
-Python to Scrach
+Python to Scrach <br/>
+<img src="https://github.com/ohwada/Scrach_Python/blob/master/sample1/python_to_scrach.png" width="200" />
 
 ### Sample2
-Scrach to Python
+Scrach to Python <br/>
+<img src="https://github.com/ohwada/Scrach_Python/blob/master/sample2/scrach_to_python.png" width="200" />
 
 ### Requrement
 - [Scrach 1.4](https://scratch.mit.edu/scratch_1.4/)
