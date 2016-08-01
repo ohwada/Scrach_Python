@@ -1,7 +1,7 @@
 # Sample1 - Python to Scratch
 
-Python : send broadcast message
-Scratch : move the cat with broadcast message
+Python : send broadcast message <br/>
+Scratch : move the cat, when recieve broadcast message <br/>
 
 Message is a letter of the alphabet.
 - c: to move to the center
@@ -9,6 +9,8 @@ Message is a letter of the alphabet.
 - r: move to the right
 - u: to move up
 - d: move down
+
+<img src="https://github.com/ohwada/Scrach_Python/blob/master/sample1/python_to_scrach.png" width="300" />
 
 ### Requrement
 - [Scrach 1.4](https://scratch.mit.edu/scratch_1.4/)
